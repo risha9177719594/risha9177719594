@@ -2,6 +2,7 @@
 - 👀 I’m interested in Salesforce Learning.
 - 🌱 I’m currently learning LWC.
 - 💞️ I’m looking to collaborate on any of the open source projects.
+- 📫 you can reach me on rajendar.bommidi@gmail.com
 - 📫 you can reach me on risha.9177719594@gmail.com
 
 <!---
